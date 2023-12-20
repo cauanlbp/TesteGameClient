@@ -1,0 +1,10 @@
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\bin\Debug\TesteClientBeta.exe.config
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\bin\Debug\TesteClientBeta.exe
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\bin\Debug\TesteClientBeta.pdb
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\Debug\TesteClientBeta.csproj.AssemblyReference.cache
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\Debug\TesteClientBeta.Properties.Resources.resources
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\Debug\TesteClientBeta.csproj.GenerateResource.cache
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\Debug\TesteClientBeta.csproj.CoreCompileInputs.cache
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\Debug\TesteClientBeta.exe
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\Debug\TesteClientBeta.pdb
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\Debug\TesteClientBeta.Form1.resources
