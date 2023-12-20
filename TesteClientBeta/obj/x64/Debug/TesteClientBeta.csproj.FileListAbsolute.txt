@@ -1,0 +1,13 @@
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\bin\x64\Debug\TesteClientBeta.exe.config
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\bin\x64\Debug\TesteClientBeta.exe
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\bin\x64\Debug\TesteClientBeta.pdb
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\x64\Debug\TesteClientBeta.csproj.AssemblyReference.cache
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\x64\Debug\TesteClientBeta.Form1.resources
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\x64\Debug\TesteClientBeta.Properties.Resources.resources
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\x64\Debug\TesteClientBeta.csproj.GenerateResource.cache
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\x64\Debug\TesteClientBeta.csproj.CoreCompileInputs.cache
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\x64\Debug\TesteClientBeta.exe
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\x64\Debug\TesteClientBeta.pdb
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\cauan\source\repos\TesteClientBeta\TesteClientBeta\obj\x64\Debug\TesteClientBeta.csproj.CopyComplete
