@@ -74,8 +74,8 @@ namespace TesteClientBeta
         private void DownloadAndInstallUpdate()
         {
             // Substitua "SeuLinkDeDownload" pelo link real do seu instalador
-            string downloadUrl = "SeuLinkDeDownload";
-            string downloadPath = Path.Combine(Path.GetTempPath(), "SeuAplicativoSetup.exe"); // Nome do arquivo temporário
+            string downloadUrl = "https://github.com/cauanlbp/TesteGameClient/blob/main/TesteClientBeta/bin/Debug/TesteClientBeta.exe";
+            string downloadPath = Path.Combine(Path.GetTempPath(), "TesteClientBeta.ex"); // Nome do arquivo temporário
 
             using (WebClient client = new WebClient())
             {

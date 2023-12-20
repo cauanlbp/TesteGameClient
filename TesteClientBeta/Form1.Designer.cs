@@ -44,6 +44,7 @@
             this.btnUpdate.TabIndex = 11;
             this.btnUpdate.Text = "button2";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnCheckForUpdates
             // 
@@ -53,6 +54,7 @@
             this.btnCheckForUpdates.TabIndex = 10;
             this.btnCheckForUpdates.Text = "button1";
             this.btnCheckForUpdates.UseVisualStyleBackColor = true;
+            this.btnCheckForUpdates.Click += new System.EventHandler(this.btnCheckForUpdates_Click);
             // 
             // lblLatestVersion
             // 
